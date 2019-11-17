@@ -1,4 +1,5 @@
 # JSDateRange
+<br/>
 #Skills HTML5, CSS, JS
 <ol>
     <li>
@@ -14,7 +15,9 @@
         Uniqueness test(if the date range is already selected then it will show the alert)
     </li>
 </ol>
+<br/>
 # Supported in Chrome, Opera, Firefox or Edge browser
+<br/>
 # To DO
 Provide the proper polyfill for IE browser
         
